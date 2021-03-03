@@ -4,7 +4,7 @@ Template-free prediction of organic reaction outcomes using graph convolutional 
 Described in [A graph-convolutional neural network model for the prediction of chemical reactivity](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04228d)
 
 # Dependencies
-- Python (trained/tested using 2.7.6, visualization/deployment compatible with 3.6.1)
+- Python (trained/tested using 2.7.13, visualization/deployment compatible with 3.6.1)
 - Numpy (trained/tested using 1.12.0, visualization/deployment compatible with 1.14.0)
 - Tensorflow (trained/tested using 1.3.0, visualization/deployment compatible with 1.6.0)
 - RDKit (trained/tested using 2017.09.1, visualization/deployment compatible with 2017.09.3)
